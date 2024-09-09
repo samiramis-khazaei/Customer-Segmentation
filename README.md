@@ -3,7 +3,7 @@
 In today's dynamic business landscape, industries aim to attract new customers and retain their existing ones. Given the uniqueness of each customer, employing a one-size-fits-all approach is ineffective. Therefore, it is more effective for companies to categorize their customers based on their attributes and behaviors, aligning their marketing approaches closely with the characteristics of similar customer groups. Customer segmentation is the process of classifying customers based on shared behavior or attributes.
 The objective of this project is to develop a customer segmentation model for a UK- based and registered non-store online retail business specializing in unique all-occasion gifts, with a significant portion of its customer base consisting of wholesalers. The model employs the RFM framework, assessing Recency, Frequency, and Monetary value as key indicators for analyzing customer behavior. These three dimensions aid in identifying distinct customer groups with similar characteristics.
 ### Code and Resources Used:<br>
-**Jupiter Notebook**
+**Jupiter Notebook**<br>
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, worldcloud<br>
 **Data:** https://archive.ics.uci.edu/dataset/352/online+retail<br>
 ### Data Collection & Cleaning:<br>
